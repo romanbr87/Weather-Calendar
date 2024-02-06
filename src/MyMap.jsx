@@ -9,7 +9,7 @@ import "./styles.scss";
 //   Popup,
 // } from "https://cdn.esm.sh/react-leaflet";
 
-export default function App() {
+export default function MyMap() {
   return (
     <MapContainer
       className="markercluster-map"
